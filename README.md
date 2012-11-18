@@ -1,4 +1,4 @@
-# L2js
+# L2node
 
 Lineage 2 server emulator. Based on [L2J](http://l2jserver.com) and written in [node.js](http://nodejs.org)
 
